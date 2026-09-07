@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gta5/vehicles/police/sheriff_lights"
+	"$allowdiffusemodulation" "false"
+	"$translucent" "1"
+
+	$emissiveBlendEnabled "1"
+	$emissiveBlendStrength "1"
+	$emissiveBlendTexture "vgui/white"
+	$emissiveBlendBaseTexture "models/gta5/vehicles/police/sheriff_lights"
+	$emissiveBlendFlowTexture "vgui/white"
+	$emissiveBlendTint "[ 8 8 8 ]"
+	$emissiveBlendScrollVector "[ 0 0 ]"
+}
